@@ -24,3 +24,9 @@ The dataset appeared to be clean and complete, with every patient attribute cont
 	* Are the patients evenly distributed throughout the US geographical regions?
 
 ## Initial Analysis
+
+From the initial analysis, percentage of males and females in the sample were approximately equal (50.52% to 49.48%, respectively). The number of non-smokers was a little more than $$ \frac {3} {4} $$ of the entire sample. The patients sprawl across 4 general US geographical regions (Northeast, Southeast, Southwest, and Northwest) with the distribution of the 4 regions being roughly equal.
+
+I calculated both the averages and medians of the ages, number of children, BMI, and annual medical costs. For the variables age, number of children, and BMI, the average and median were approximately equal, indicating that the distribution is roughly symmetric. However, the average cost was much greater than the median cost, indicating a skew of the data to thr right. The average annual cost was also rather large to me ($13,270.42), so I became curious as to what might have cause that rather large skew to such a high average price.
+
+The two factors that immediately jumped out as being key contributors to high medical costs were BMI and Smoking. I wanted to dig deeper into those two variables to see how those two categories influence a patient's annual medical costs.
