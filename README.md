@@ -30,3 +30,8 @@ From the initial analysis, percentage of males and females in the sample were ap
 I calculated both the averages and medians of the ages, number of children, BMI, and annual medical costs. For the variables age, number of children, and BMI, the average and median were approximately equal, indicating that the distribution is roughly symmetric. However, the average cost was much greater than the median cost, indicating a skew of the data to thr right. The average annual cost was also rather large to me ($13,270.42), so I became curious as to what might have cause that rather large skew to such a high average price.
 
 The two factors that immediately jumped out as being key contributors to high medical costs were BMI and Smoking. I wanted to dig deeper into those two variables to see how those two categories influence a patient's annual medical costs.
+
+This initial analysis lead me to dig a little deeper into the categories and how they influence the annual cost.
+
+## Additional Analysis
+
